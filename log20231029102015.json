@@ -1,0 +1,6 @@
+
+{"MediaType":"iPhone 12","OSVersion":"iOS16.4","ID":"testID","App Name":"Supergame","TimeStamp":"2023/10/29 10:20:16","Action":"ログイン","Complete Time":"5.43"}
+{"MediaType":"iPhone 12","OSVersion":"iOS16.4","ID":"testID","App Name":"Supergame","TimeStamp":"2023/10/29 10:23:16","Action":"サブスクリプション購入処理(1.99$)","Complete Time":"1.43"}
+{"MediaType":"iPhone 12","OSVersion":"iOS16.4","ID":"testID","App Name":"Supergame","TimeStamp":"2023/10/29 10:24:11","Action":"ゲーム開始","Complete Time":"3.43"}
+{"MediaType":"iPhone 12","OSVersion":"iOS16.4","ID":"testID","App Name":"Supergame","TimeStamp":"2023/10/29 10:25:16","Action":"ゲーム終了","Complete Time":"2.43"}
+{"MediaType":"iPhone 12","OSVersion":"iOS16.4","ID":"testID","App Name":"Supergame","TimeStamp":"2023/10/29 10:25:20","Action":"レコード送信","Complete Time":"2.13"}
